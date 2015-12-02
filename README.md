@@ -11,6 +11,8 @@
 感谢所有的 [贡献者](https://github.com/yeasy/openstack_understand_Neutron/graphs/contributors)。
 
 ## 更新历史:
+* V0.9A:2015-12-02
+        * sheldon hu fork this project and prepare to contribute himself to it.
 * V0.9: 2015-06-29
 	* 添加对 DVR 更多细节分析。
 * V0.8: 2015-03-24
